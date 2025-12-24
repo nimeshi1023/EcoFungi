@@ -8,19 +8,19 @@ The system enables to track cultivation batches from initiation to harvest, mana
 
 ## 🚀 Screenshots
 
-<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshots/Screenshot%20(409).png" width="20%"/><br/><br/>
+<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshot/Screenshot%20(409).png" width="20%"/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshots/Screenshot%20(410).png" width="20%"/><br/><br/>
+<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshot/Screenshot%20(410).png" width="20%"/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshots/Screenshot%20(411).png" width="20%"/><br/><br/>
+<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshot/Screenshot%20(411).png" width="20%"/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshots/Screenshot%20(412).png" width="20%"/><br/><br/>
+<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshot/Screenshot%20(412).png" width="20%"/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshots/Screenshot%20(413).png" width="20%"/><br/><br/>
+<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshot/Screenshot%20(413).png" width="20%"/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshots/Screenshot%20(414).png" width="20%"/><br/><br/>
+<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshot/Screenshot%20(414).png" width="20%"/><br/><br/>
 
-<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshots/Screenshot%20(415).png" width="20%"/><br/><br/>
+<img src="https://raw.githubusercontent.com/nimeshi1023/FitWomenApp/main/screenshot/Screenshot%20(415).png" width="20%"/><br/><br/>
 
 
 
