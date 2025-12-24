@@ -8,18 +8,41 @@ The system enables to track cultivation batches from initiation to harvest, mana
 
 ## 🚀 Screenshots
 
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(409).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(410).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(411).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(412).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(413).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(414).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(415).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(416).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(417).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(418).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(419).png" width="40%"/><br/><br/>
-<img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungi/main/screenshot/Screenshot%20(420).png" width="40%"/><br/><br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(409).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(410).png" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(411).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(412).png" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(413).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(414).png" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(415).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(416).png" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(417).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(418).png" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(419).png" width="40%"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/nimeshi1023/EcoFungiApp/main/screenshot/Screenshot%20(420).png" width="40%"/>
+</p>
 
 
 
